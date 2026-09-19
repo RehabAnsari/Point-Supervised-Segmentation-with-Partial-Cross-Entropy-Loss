@@ -1,0 +1,2 @@
+# Point-Supervised-Segmentation-with-Partial-Cross-Entropy-Loss
+ Task recap (from the assignment):   1. Implement partial Cross Entropy loss (pfCE).   2. Find/simulate a remote sensing segmentation dataset with point-level labels      and plug the loss into a segmentation network.   3. Design an experiment exploring a factor that affects performance, and      report method / hypothesis / process / results.
